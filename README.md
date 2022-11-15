@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JimGalvan, and I am automation test engineer.
 - 👀 I’m interested on becoming a full-stack/back-end engineer.
-- 🌱 I’m currently learning front-end development with Javascript and React but will also start learning back-end.
-- 💞️ I’m looking to collaborate on projects related to web application development or Java. 
+- 🌱 I’m currently starting to learn MERN stack development. 
+- 💞️ I’m looking to collaborate on projects related to web application development with MERN stack or Java. 
 - 📫 How to reach me, my email jimmy-galvan@live.com.mx
 
 ### Other portfolios/websites:
