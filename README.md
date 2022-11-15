@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JimGalvan, and I am software engineer in test.
 - 👀 I’m interested on becoming a full-stack/back-end engineer.
 - 🌱 I’m currently starting to learn MERN stack development. 
-- 💞️ I’m looking to collaborate on projects related to web application development with MERN stack, or development with Javascript or Java. 
+- 💞️ I’m looking to collaborate on projects related to web application development with MERN stack, or development with Javascript, Java or Python. 
 - 📫 Where to reach me: jimmy-galvan@live.com.mx
 
 ### Other portfolios/websites:
