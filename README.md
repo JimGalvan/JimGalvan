@@ -2,7 +2,7 @@
 - 👀 I’m interested on becoming a full-stack/back-end engineer.
 - 🌱 I’m currently starting to learn MERN stack development. 
 - 💞️ I’m looking to collaborate on projects related to web application development with MERN stack, or development with Javascript or Java. 
-- 📫 How to reach me, my email jimmy-galvan@live.com.mx
+- 📫 How to reach me: jimmy-galvan@live.com.mx
 
 ### Other portfolios/websites:
 LinkedIn: https://www.linkedin.com/in/jimalexsandergalvan/ <br>
