@@ -1,5 +1,4 @@
-### 👋 Hi, I’m @JimGalvan, and I am software engineer in test.
-- 👀 I’m interested on becoming a DevOps Engineer.
+### 👋 Hi, I’m @JimGalvan, and I am Test Engineer
 - 📫 Where to reach me: jimmy-galvan@live.com.mx
 
 ### Other portfolios/websites:
