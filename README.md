@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @JimGalvan, and I am Test Engineer
+### 👋 Hi, I’m @JimGalvan, and I am QA Test Automation Engineer
 - 📫 Where to reach me: jimmy-galvan@live.com.mx
 
 ### Other portfolios/websites:
