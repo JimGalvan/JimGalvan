@@ -1,10 +1,14 @@
-### 👋 Hi, I’m @JimGalvan, and I am Software Engineer
-- 📫 Where to reach me: jimmy-galvan@live.com.mx
+### 👋 Hey there, I’m @JimGalvan, a Software Engineer
+- 🚀 Passionate about building and breaking things (in the best way!)
+- 🌱 Currently diving deeper into web development with Django, React, HTMX, and JavaScript.
+- 💬 Ask me about software testing, Python, or turning ideas into code.
+- 📫 Reach me at: [jimmy-galvan@live.com.mx](mailto:jimmy-galvan@live.com.mx)
 
-### Other portfolios/websites:
-LinkedIn: https://www.linkedin.com/in/jimalexsandergalvan/ <br>
-LeetCode: https://leetcode.com/jimmy-galvan/ <br>
-Codewars: https://www.codewars.com/users/jinux95/
+### 🌐 Find me elsewhere:
+- [Portfolio](https://jimgalvan.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jimalexsandergalvan/)
+- [LeetCode](https://leetcode.com/jimmy-galvan/)
+- [Codewars](https://www.codewars.com/users/jinux95/)
 
 <!---
 JimGalvan/JimGalvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
