@@ -1,7 +1,7 @@
 ### 👋 Hey there, I’m @JimGalvan, a Software Engineer
 - 🚀 Passionate about building and breaking things (in the best way!)
 - 🌱 Currently diving deeper into web development with Django, React, HTMX, and JavaScript.
-- 💬 Ask me about software testing, Python, or turning ideas into code.
+- 💬 Ask me about software testing, Python, Java or turning ideas into code.
 - 📫 Reach me at: [jimmy-galvan@live.com.mx](mailto:jimmy-galvan@live.com.mx)
 
 ### 🌐 Find me elsewhere:
