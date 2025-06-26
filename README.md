@@ -1,17 +1,26 @@
-### 👋 Hey there, I’m @JimGalvan, a Software Engineer
-- 🚀 Passionate about building and breaking things (in the best way!)
-- 🌱 Currently diving deeper into web development with Django, React, .NET, JavaScript and AWS.
-- 💬 Ask me about software testing, Python, Java or turning ideas into code.
-- 📫 Reach me at: [jimmy-galvan@live.com.mx](mailto:jimmy-galvan@live.com.mx)
+# 👋 Hi, I'm Jim Galvan  
+**QA Automation Engineer | DevOps Enthusiast | Full-Stack Developer**
+
+I’m a Software Test Engineer with over 5 years of experience designing robust test automation frameworks and CI/CD pipelines for high-impact applications across medical and enterprise domains. My work spans **Playwright, Selenium, Python, C#, Java, and JavaScript**, with hands-on contributions in **DevOps**, **mobile testing**, and **full-stack development**.
+
+## 🔧 What I Do:
+- Build UI/API automation suites using Playwright & Pytest (Python/C#)
+- Develop CI/CD pipelines with Jenkins, Docker, AWS, and GitHub Actions
+- Debug production issues, backend REST APIs, and Azure services like Service Bus
+- Lead Scrum ceremonies and drive team-wide quality practices
+- Create full-stack apps (e.g., [NexMenus](https://github.com/JimGalvan/nexmenus)) using Django, JS, and HTMX
+
+## 📫 Contact
+- Email: [jimmy-galvan@live.com.mx](mailto:jimmy-galvan@live.com.mx)  
+- Portfolio: [jimgalvan.github.io](https://jimgalvan.github.io/)  
+- LinkedIn: [linkedin.com/in/jimalexsandergalvan](https://www.linkedin.com/in/jimalexsandergalvan)
+
 
 ### 🌐 Find me elsewhere:
 - [Portfolio](https://jimgalvan.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/jimalexsandergalvan/)
 - [LeetCode](https://leetcode.com/jimmy-galvan/)
 - [Codewars](https://www.codewars.com/users/jinux95/)
-
-### Certifications:
-- [AWS Cloud Technical Essentials](https://coursera.org/share/e09dc5429ef617a76f300739f6a15f92)
 
 <!---
 JimGalvan/JimGalvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
