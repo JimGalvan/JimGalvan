@@ -8,7 +8,7 @@ I’m a Software Test Engineer with over 5 years of experience designing robust 
 - Develop CI/CD pipelines with Jenkins, Docker, AWS, and GitHub Actions
 - Debug production issues, backend REST APIs, and Azure services like Service Bus
 - Lead Scrum ceremonies and drive team-wide quality practices
-- Create full-stack apps (e.g., [NexMenus](https://github.com/JimGalvan/nexmenus)) using Django, JS, and HTMX
+- Create full-stack apps (e.g., [NexMenus](https://github.com/JimGalvan/nexmenus)) using Python, JS, and HTMX
 
 ## 📫 Contact
 - Email: [jimmy-galvan@live.com.mx](mailto:jimmy-galvan@live.com.mx)  
