@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jim Galvan  
-** Experienced Software Test Engineer | QA Automation Engineer | SDET | Full-Stack Developer**
-
-I’m a Software Test Engineer with over 5 years of experience designing robust test automation frameworks and CI/CD pipelines for high-impact applications across medical and enterprise domains. My work spans **Playwright, Selenium, Python, C#, Java, and JavaScript**, with hands-on contributions in **DevOps**, **mobile testing**, and **full-stack development**.
+## Experienced Software Test Engineer | QA Automation Engineer | SDET | Full-Stack Developer
+ 
+I’m a Software Test Engineer with over 5 years of experience designing robust test automation frameworks, internal tools and CI/CD pipelines for high-impact applications across medical and enterprise domains. My work spans **Playwright, Selenium, Python, C#, Java, and JavaScript**, with hands-on contributions in **DevOps**, and **full-stack development**.
 
 ## 🔧 What I Do:
 - Build UI/API automation suites using Playwright & Pytest (Python/C#)
