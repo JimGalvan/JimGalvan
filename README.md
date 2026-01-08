@@ -7,7 +7,7 @@ At **Alphatec Spine**, I design and deploy **deep learning–based computer visi
 
 I’m also the **Founder & Software Engineer at NexMenus**, a multi-tenant SaaS platform for restaurant menu management. I lead the full product lifecycle—from backend architecture to cloud deployment—using **Django, PostgreSQL, AWS**, and **Stripe**, delivering secure, mobile-first, and localized solutions.
 
-My background includes several years in **QA Automation and DevOps**, where I built automation frameworks and rebuilt CI/CD pipelines from the ground up—experience that strongly informs the reliability and testability of the systems I build today.
+My background includes years in Automation and DevOps, where I built automation frameworks and rebuilt CI/CD pipelines from the ground up—experience that strongly informs the reliability and testability of the systems I build today.
 
 ---
 
