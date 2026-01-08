@@ -3,11 +3,11 @@
 
 I’m a **Software Engineer with ~6 years of experience** spanning **automation, cloud infrastructure, applied AI, and full-stack development**. I currently specialize in building **scalable .NET microservices** and **production-grade computer vision systems**, with a strong foundation in clean architecture, CI/CD, and cloud-native development.
 
-At **Alphatec Spine**, I design and deploy **deep learning–based computer vision solutions** for medical device quality inspection, training and optimizing custom object detection models (e.g., **YOLOv8**) using **PyTorch and OpenCV**, while also developing backend microservices with **ASP.NET Core (.NET 8)**.
+At **Alphatec Spine**, I design and deploy **deep learning based computer vision solutions** for medical device quality inspection, training and optimizing custom object detection models (e.g., **YOLOv8**) using **PyTorch and OpenCV**, while also developing backend microservices with **ASP.NET Core (.NET 8)**.
 
-I’m also the **Founder & Software Engineer at NexMenus**, a multi-tenant SaaS platform for restaurant menu management. I lead the full product lifecycle—from backend architecture to cloud deployment—using **Django, PostgreSQL, AWS**, and **Stripe**, delivering secure, mobile-first, and localized solutions.
+I’m also the **Founder & Software Engineer at NexMenus**, a multi-tenant SaaS platform for restaurant menu management. I lead the full product lifecycle from backend architecture to cloud deployment using **Django, PostgreSQL, AWS**, and **Stripe**, delivering secure, mobile-first, and localized solutions.
 
-My background includes years in Automation and DevOps, where I built automation frameworks and rebuilt CI/CD pipelines from the ground up—experience that strongly informs the reliability and testability of the systems I build today.
+My background includes years in Automation and DevOps, where I built automation frameworks and rebuilt CI/CD pipelines from the ground up experience that strongly informs the reliability and testability of the systems I build today.
 
 ---
 
